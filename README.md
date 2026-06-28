@@ -85,6 +85,6 @@ I downloaded the original dataset from Kaggle: https://www.kaggle.com/datasets/b
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Collins3-cpu/FUTURE_DS_02>
    cd customer-churn-analysis
 
